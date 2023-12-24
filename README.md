@@ -40,4 +40,4 @@ If you encounter any issues or have questions regarding setting up or running yo
     * Initial Commit
 
 ## License
-This project is licensed under [Your Chosen License] - see the LICENSE.md file for details.
+This project is licensed under [MIT] - see the LICENSE.md file for details.
