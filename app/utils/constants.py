@@ -1,0 +1,1 @@
+binaryClassificationModelFilepath = '../binary/model/model.h5'
